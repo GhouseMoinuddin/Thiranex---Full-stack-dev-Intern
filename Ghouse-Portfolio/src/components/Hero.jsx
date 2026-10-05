@@ -29,7 +29,7 @@ export default function Hero({ onOpenResume }) {
         index++;
         timeoutId = setTimeout(type, 100);
       } else {
-        // Wait 1.2s after completing, then reset and loop
+        // wait 1.2s after completing,then reset and loop
         timeoutId = setTimeout(() => {
           setTypedText('');
           index = 0;
