@@ -1,1 +1,1 @@
-# Thiranex---Full-stack-dev-Intern
+# Thiranex-Full-stack-dev-Intern
